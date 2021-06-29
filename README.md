@@ -1,11 +1,7 @@
-# Build Your Own World Design Document
+# Nuggets!
 
-**Partner 1:**
+**Created with A. Herri in CS61B at UC Berkeley.**
 
-**Partner 2:**
+## A game with customizable avatar in pseudorandomly generated world environment.
 
-## Classes and Data Structures
-
-## Algorithms
-
-## Persistence
+## How to Play:
